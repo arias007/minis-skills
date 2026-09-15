@@ -1,0 +1,16 @@
+{
+ "format": "minis-skill-registry/1",
+ "generated_at": "2026-09-15T14:12:56+0800",
+ "count": 1,
+ "skills": [
+  {
+   "name": "term-noise",
+   "version": "1.0.0",
+   "description": "诊断并消除 Minis 终端里刷屏的 \"proot info: native_offload ...\" 噪音。当用户抱怨终端刷屏、打不进字、或后台服务周期性调用 android-* 工具时使用。含根因说明（重定向为什么拦不住）、定位脚本、以及让服务尊重静音标志的改法。",
+   "file": "term-noise-1.0.0.skill.tar.gz",
+   "size_kb": 3.2,
+   "files": 2,
+   "packed_at": "2026-09-15T14:12:46+0800"
+  }
+ ]
+}
